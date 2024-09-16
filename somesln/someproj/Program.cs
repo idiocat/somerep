@@ -6,7 +6,7 @@ namespace someproj
     {
         static void Main()
         {
-            Console.WriteLine("Good day, sir!");
+            Console.WriteLine("You lose! Good day, sir!");
         }
     }
 }
