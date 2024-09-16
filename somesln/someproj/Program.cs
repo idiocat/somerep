@@ -1,2 +1,12 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+
+namespace someproj
+{
+    class Somecls
+    {
+        static void Main()
+        {
+            Console.WriteLine("Good day, sir!");
+        }
+    }
+}
